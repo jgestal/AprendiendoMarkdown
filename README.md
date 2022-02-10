@@ -4,7 +4,7 @@
 Ctrl + Shift Izq + P
 | asdfa  |  asdfasd |
 |---|---|
-| asdfas  |asdfas   |
+| asdfas  |asdfas  adasda |
 
 - [AprendiendoMarkdown](#aprendiendomarkdown)
   - [Tabla de contenidos](#tabla-de-contenidos)
